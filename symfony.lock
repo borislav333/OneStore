@@ -296,6 +296,9 @@
             "ref": "f8a63faa0d9521526499c0a8f403c9964ecb0527"
         }
     },
+    "symfony/security-csrf": {
+        "version": "v4.0.9"
+    },
     "symfony/serializer": {
         "version": "v4.0.8"
     },
@@ -373,6 +376,9 @@
     },
     "symfony/yaml": {
         "version": "v4.0.8"
+    },
+    "twbs/bootstrap": {
+        "version": "v4.0.0"
     },
     "twig/twig": {
         "version": "v2.4.8"

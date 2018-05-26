@@ -1,0 +1,14 @@
+{% extends 'base.html.twig' %}
+{% block title %}
+
+{% endblock %}
+{% block body %}
+    <br>
+
+    {{ form_start(formRegister) }}
+    {{ form_row(formRegister._token) }}
+    {{ form_end(formRegister) }}
+{% endblock %}
+
+
+
